@@ -3,7 +3,7 @@
 ## A little bit about me 
 😄 pronouns: she/her
 
-Now I can proudly say I am a Full Stack Dev! 
+Lifelong learner, now I can proudly say I am a Full Stack Dev! 
 But before that I was/am a project manager with a solid academic background based on qualitative and quantitative research on digital technology.
 I got a PhD in Screen and Media Culture and an in-depth knowledge of digital and media ecosystem, with a great interest for innovation. 
 
