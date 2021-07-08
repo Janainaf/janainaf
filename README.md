@@ -11,7 +11,7 @@ I got a PhD in Screen and Media Culture and an in-depth knowledge of digital and
 
 🌱 Recently I have finished a 6 months FullStack bootcamp at [The Hacking Project](https://www.thehackingproject.org) and 
  am about to finish  a JS TechDegree from [TreeHouse](https://teamtreehouse.com) ! 
-Besides, I also have some knowledge of [Python](https://www.coursera.org/account/accomplishments/verify/2CP9XQJYM4VL) and collaborated with [FreeCodeCamp](freecodecamp.org) :) 
+Besides, I also have some knowledge of [Python](https://www.coursera.org/account/accomplishments/verify/2CP9XQJYM4VL) and collaborated with [FreeCodeCamp](https://www.freecodecamp.org) :) 
 
 ## Languages I have learnt 
 - Javascript
