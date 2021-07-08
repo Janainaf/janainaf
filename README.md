@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey there, don´t be shy say hi 👋
 
-<!--
-**Janainaf/janainaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me 
+😄 pronouns: she/her
 
-Here are some ideas to get you started:
+Now I can proudly say I am a Full Stack Dev! 
+But before that I was/am a project manager with a solid academic background based on qualitative and quantitative research on digital technology.
+I got a PhD in Screen and Media Culture and an in-depth knowledge of digital and media ecosystem, with a great interest for innovation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+🌱 Recently I have finished a 6 months FullStack bootcamp at [The Hacking Project](THEhackingproject.org) and 
+ am about to finish  a JS TechDegree from [TreeHouse](teamtreehouse.com) ! 
+Besides, I also have some knowledge of [Python](https://www.coursera.org/account/accomplishments/verify/2CP9XQJYM4VL) and collaborated with [FreeCodeCamp](freecodecamp.org) :) 
+
+## Languages I have learnt 
+- Javascript
+- Ruby (on Rails)
+- React
+- HTML/CSS
+- and a bit of Python
+
+ ### Fun fact ⚡
+
+I lived in China for many years and I am also a registered tourist guide in Brazil (because I love travelling!)
