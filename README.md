@@ -13,12 +13,14 @@ I got a PhD in Screen and Media Culture and an in-depth knowledge of digital and
  am about to finish  a JS TechDegree from [TreeHouse](https://teamtreehouse.com) ! 
 Besides, I also have some knowledge of [Python](https://www.coursera.org/account/accomplishments/verify/2CP9XQJYM4VL) and collaborated with [FreeCodeCamp](https://www.freecodecamp.org) :) 
 
-## Languages I have learnt 
+## What I have learnt so far...
 - Javascript
-- Ruby (on Rails)
+- Node Js
 - React
+- SQL
+- Python
+- Ruby (on Rails)
 - HTML/CSS
-- and a bit of Python
 
  ### Fun fact ⚡
 
